@@ -1,6 +1,6 @@
 <?php
 //điều chỉnh kết nối db ở đây
-const DBNAME = "exam_php_02";
+const DBNAME = "on_php_02";
 const DBUSER = "root";
 const DBPASS = "";
 const DBCHARSET = "utf8";
